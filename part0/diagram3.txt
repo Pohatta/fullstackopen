@@ -1,0 +1,2 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: [{content: "viesti", date: "2020-11-16T14:35:04.489Z"}]
